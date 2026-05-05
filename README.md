@@ -1,4 +1,4 @@
-# ITPM Assignment 1 - Option 1 (IT23343948)
+# ITPM Assignment 1 - Option 1 (IT23386372)
 
 This repository contains the automated testing suite for Assignment 1 (Option 1) of the IT3040 - ITPM module. It utilizes Python and Playwright to automate the execution of 50 negative test cases against the PixelsSuite Chat Translator, verifying the system's robustness against informal Sinhala chat-style inputs (Singlish).
 
